@@ -18,4 +18,4 @@ For reports please follow <a href="https://ahmaddaniel.github.io/covid19">this l
 <br/>
 <br/>
 <b>Video</b>
-<video width=100%" controls autoplay><source src="May-13-2020/covid19_prd.mp4" type="video/mp4"></video>
+<video width="100%" controls autoplay><source src="May-13-2020/covid19_prd.mp4" type="video/mp4"></video>
