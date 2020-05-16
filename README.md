@@ -14,4 +14,8 @@ For reports please follow <a href="https://ahmaddaniel.github.io/covid19">this l
             <td><img src="thumbnails/02.png" /></td>
             <td><img src="thumbnails/03.png" /></td>
         </tr>
+		<tr>
+            <td><img src="thumbnails/05.png" /></td>
+            <td><img src="thumbnails/06.png" /></td>
+        </tr>
 </table>
